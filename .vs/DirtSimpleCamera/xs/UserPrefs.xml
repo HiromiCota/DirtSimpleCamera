@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D03A54A4-2C71-F944-7480-7E4D3F4D4EE4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LerpPoint.cs" Line="15" Column="37" />
+      <File FileName="Assets/Scripts/CameraMove.cs" Line="52" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="35" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

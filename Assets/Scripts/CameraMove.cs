@@ -64,6 +64,9 @@ public class CameraMove : MonoBehaviour {
         if (zoomComplete && moveComplete){
             OnComplete();
         }
+        if (destinationObject != null) {
+            destination = destinationObject.transform.position;
+        }
     }
 
     IEnumerator LinearMove(){
